@@ -7,4 +7,10 @@ body{
 #quizContainer{
 	font-family: Roboto;
 	font-size: 15px;
+	width: 600px;
+	height: 600px;
+	overflow: hidden;
+	position: relative;
+	color: #fff;
+	background: #000 url('../img/background.jpg') no-repeat 0 0;
 }
