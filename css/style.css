@@ -1,1 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+	padding: 100px;
+
+}
+#quizContainer{
+	font-family: Roboto;
+	font-size: 15px;
+}
